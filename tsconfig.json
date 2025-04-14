@@ -6,7 +6,7 @@
     "importHelpers": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "target": "esnext",
+    "target": "es5",
     "lib": [
       "dom",
       "es5",
