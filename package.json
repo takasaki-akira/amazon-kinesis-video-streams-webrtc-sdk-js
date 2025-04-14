@@ -9,12 +9,7 @@
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
-        "src/**/*",
-        "lib/**/*",
-        "dist/**/*",
-        "examples/**/*",
-        "LICENSE.txt",
-        "NOTICE.txt"
+        "**/**/*"
     ],
     "scripts": {
         "integ-server": "ws -p 3000",
