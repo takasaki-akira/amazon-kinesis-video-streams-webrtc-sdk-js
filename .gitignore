@@ -9,7 +9,7 @@ node_modules/
 
 # Build files
 dist/
-lib/
+# lib/
 
 # Code coverage
 coverage/
